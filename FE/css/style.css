@@ -1,0 +1,29 @@
+body {
+    background-color: red;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1 {
+    font-family: "Playfair Display";
+    font-weight: 400;
+}
+
+/* 0100 */
+#header {
+    background-color: rgba(0,0,0);
+}
+
+/* 0001 */
+header {
+    background-color: rgba(0,0,255);
+}
+
+/* 0010 */
+.header {
+    background-color: rgba(0,255,255);
+}
+
+
+
+
+
